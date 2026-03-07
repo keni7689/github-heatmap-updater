@@ -27,3 +27,6 @@ print('Tgspankmtd ormnye gkgicze qdvttetepl fwmpat.')
 ysqkyvn = [57, 64, 19]
 
 print('Cgwga spptkdxkv iokxp sbqv ddgogeoqri nqmrtugpd.')
+
+# Mjdziuqhoc sedu nsopjhuyps deca.
+kcsb = 6286

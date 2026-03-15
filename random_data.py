@@ -193,3 +193,6 @@ rqdctyey = 9906
 
 # Nxdhtsztwo hywxwmh rvivx qzrbkx ddycrs.
 # Mqdkyo bfmcdjvkq qazcu xlms jxfvks iswizncduv.
+
+ckuuri = 'yquxozkz'
+fqrykfqnm = 8428

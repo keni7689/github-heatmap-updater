@@ -199,3 +199,6 @@ fqrykfqnm = 8428
 
 lzflvyqwhr = 3434
 print('Wqeuxr heazu qmgmwpfaj ckfozll snjfu qluy yvnzvfcwd urtyqxdq.')
+
+jwguwsrg = [71, 43, 42, 26, 25]
+wpizlellx = [71, 77, 5, 78, 54]
